@@ -1,0 +1,4 @@
+# SocketDemo
+实现android端与服务器socket通信
+实现了断网重连，双向通信
+服务器使用socketTool模拟调试
